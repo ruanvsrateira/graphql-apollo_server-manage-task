@@ -38,6 +38,16 @@
     npm run dev
     # ou
     yarn run dev
+
+    # Buildar projeto
+    npm run build
+    #ou
+    yarn run build
+    
+    #Rodar projeto buildado
+    npm run start
+    #ou
+    yarn run start
 ```
 <hr>
 
